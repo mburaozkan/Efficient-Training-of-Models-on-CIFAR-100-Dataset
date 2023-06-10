@@ -22,4 +22,5 @@ $ python train.py -net googlenet -gpu
 $ python test.py -net googlenet -gpu -weights path_to_googlenet_weights_file
 ```
 
+## Copyrights
 The code template was taken from https://github.com/weiaicunzai/pytorch-cifar100.
