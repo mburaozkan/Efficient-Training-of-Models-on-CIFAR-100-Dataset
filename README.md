@@ -1,5 +1,7 @@
 # Efficient-Training-of-Models-on-CIFAR-100-Dataset
 
+Efficient Training of googlenet on CIFAR-100 dataset
+
 ## Requirements
 Project is created with:
 * Python version: 3.10
